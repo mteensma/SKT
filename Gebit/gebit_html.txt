@@ -1,0 +1,41 @@
+<div id="gebitje" style="margin: 36px 0pt 0pt 36px; background: transparent url(images/Gebit/totaal_gebit_zonder.gif) no-repeat scroll 0% 0%; width: 238px; position: relative; height: 371px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+
+<style type="text/css">
+
+#gebitje img {
+position:absolute;
+}
+.tand1 { left:0; top:111px; }
+.tand2 { left:12px; top:59px; }
+.tand3 { left:35px; top:26px; }
+.tand4 { left:61px; top:9px; }
+.tand5 { left:91px; top:0; }
+.tand6 { left:123px; top:0; }
+.tand7 { left:151px; top:13px; }
+.tand8 { left:171px; top:30px; }
+.tand9 { left:187px; top:57px; }
+.tand10 { left:192px; top:110px; }
+.tand11 { left:194px; top:220px; }
+.tand12 { left:181px; top:268px; }
+.tand13 { left:168px; top:316px; }
+.tand14 { left:151px; top:334px; }
+.tand15 { left:120px; top:337px; }
+.tand16 { left:87px; top:336px; }
+.tand17 { left:58px; top:330px; }
+.tand18 { left:35px; top:312px; }
+.tand19 { left:15px; top:261px; }
+.tand20 { left:2px; top:212px; }
+
+</style>
+<img class="tand2" title="17-08-2008" src="images/Gebit/tand2.gif"/>
+<img class="tand4" title="27-02-2008" src="images/Gebit/tand4.gif"/>
+<img class="tand5" title="14-01-2008" src="images/Gebit/tand5.gif"/>
+<img class="tand6" title="28-11-2007" src="images/Gebit/tand6.gif"/>
+<img class="tand7" title="21-01-2008" src="images/Gebit/tand7.gif"/>
+<img class="tand9" title="08-06-2008" src="images/Gebit/tand9.gif"/>
+<img class="tand12" title="02-07-2008" src="images/Gebit/tand12.gif"/>
+<img class="tand14" title="23-04-2008" src="images/Gebit/tand14.gif"/>
+<img class="tand15" title="12-10-2007" src="images/Gebit/tand15.gif"/>
+<img class="tand16" title="26-10-2007" src="images/Gebit/tand16.gif"/>
+<img class="tand19" title="02-07-2008" src="images/Gebit/tand19.gif"/>
+</div>
